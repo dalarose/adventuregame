@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 6f546a0e9c692417bab41ccdc1735606
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7773110814668016561
+    second: coco_idle_bounce_with_delay_animation-spritesheet_0
+  - first:
+      213: 837859556441623178
+    second: coco_idle_bounce_with_delay_animation-spritesheet_1
+  - first:
+      213: -3428560975764354586
+    second: coco_idle_bounce_with_delay_animation-spritesheet_2
+  - first:
+      213: -5709006718750674154
+    second: coco_idle_bounce_with_delay_animation-spritesheet_3
+  - first:
+      213: 2336233864528603043
+    second: coco_idle_bounce_with_delay_animation-spritesheet_4
+  - first:
+      213: -2944929989117483908
+    second: coco_idle_bounce_with_delay_animation-spritesheet_5
+  - first:
+      213: -4205734260870913282
+    second: coco_idle_bounce_with_delay_animation-spritesheet_6
+  - first:
+      213: -8005643229457343241
+    second: coco_idle_bounce_with_delay_animation-spritesheet_7
+  - first:
+      213: -6305527693574579493
+    second: coco_idle_bounce_with_delay_animation-spritesheet_8
+  - first:
+      213: 6787638419333461926
+    second: coco_idle_bounce_with_delay_animation-spritesheet_9
+  - first:
+      213: 8394513131841696769
+    second: coco_idle_bounce_with_delay_animation-spritesheet_10
+  - first:
+      213: 7046488672968144356
+    second: coco_idle_bounce_with_delay_animation-spritesheet_11
+  - first:
+      213: 8053011453019312380
+    second: coco_idle_bounce_with_delay_animation-spritesheet_12
+  - first:
+      213: -5706100252822809181
+    second: coco_idle_bounce_with_delay_animation-spritesheet_13
+  - first:
+      213: -7575622101234124326
+    second: coco_idle_bounce_with_delay_animation-spritesheet_14
+  - first:
+      213: -5988627136861774937
+    second: coco_idle_bounce_with_delay_animation-spritesheet_15
+  - first:
+      213: -2918858164739223072
+    second: coco_idle_bounce_with_delay_animation-spritesheet_16
+  - first:
+      213: -2893286612299913063
+    second: coco_idle_bounce_with_delay_animation-spritesheet_17
+  - first:
+      213: 3778368251574354138
+    second: coco_idle_bounce_with_delay_animation-spritesheet_18
+  - first:
+      213: -3193244324130187977
+    second: coco_idle_bounce_with_delay_animation-spritesheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 6024
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4437f3d5ec502490800000000000000
+      internalID: -7773110814668016561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 6024
+        width: 1357
+        height: 1465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a8e51d3dca0ab00800000000000000
+      internalID: 837859556441623178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 6024
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e98cc435fd4b60d0800000000000000
+      internalID: -3428560975764354586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 5876
+        y: 6024
+        width: 1357
+        height: 1465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6133c8c03a885c0b0800000000000000
+      internalID: -5709006718750674154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 7796
+        y: 6024
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a727776258fb6020800000000000000
+      internalID: 2336233864528603043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 4104
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74e14e17c18127d0800000000000000
+      internalID: -2944929989117483908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 4104
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2691109fa32a5c0800000000000000
+      internalID: -4205734260870913282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 4104
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc1fa506ed36e090800000000000000
+      internalID: -8005643229457343241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 5876
+        y: 4104
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda591788f34e78a0800000000000000
+      internalID: -6305527693574579493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 7796
+        y: 4104
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a73a201e29823e50800000000000000
+      internalID: 6787638419333461926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2184
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104b6c5a73d4f7470800000000000000
+      internalID: 8394513131841696769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 2184
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5741a3d182ac160800000000000000
+      internalID: 7046488672968144356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 2184
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf05e55ff3b02cf60800000000000000
+      internalID: 8053011453019312380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 5876
+        y: 2184
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5dab16d0cdfc0b0800000000000000
+      internalID: -5706100252822809181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 7796
+        y: 2184
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9775716dbfdd690800000000000000
+      internalID: -7575622101234124326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 264
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abd61f195f14eca0800000000000000
+      internalID: -5988627136861774937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 264
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e158f4c6f12e77d0800000000000000
+      internalID: -2918858164739223072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 264
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9986878c72bf8d7d0800000000000000
+      internalID: -2893286612299913063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 5876
+        y: 264
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad004b9f7e57f6430800000000000000
+      internalID: 3778368251574354138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco_idle_bounce_with_delay_animation-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 7796
+        y: 264
+        width: 1352
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735103ba4315fa3d0800000000000000
+      internalID: -3193244324130187977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
